@@ -19,3 +19,5 @@ UAB CS303 - Data Structures and Algorithms (Python)
 ## Lab 8 - Binary Search Tree Data Structure
 
 ## Lab 9 - Red-Black Tree Data Structure
+
+## Lab 10 - Hash Map Data Structure
