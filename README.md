@@ -21,3 +21,9 @@ UAB CS303 - Data Structures and Algorithms (Python)
 ## Lab 9 - Red-Black Tree Data Structure
 
 ## Lab 10 - Hash Map Data Structure
+
+## Lab 11 - Directed/Undirected Graph BFS
+
+## Lab 12 - DFS and Topological Sort
+
+## Lab 13 - Prim's MST
